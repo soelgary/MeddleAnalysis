@@ -1,5 +1,9 @@
 import os, subprocess
 
+'''
+This script will go through all of the tcpdumps and find any PII in them. It takes no input.
+'''
+
 path_to_dir = 'soeller.g'
 files_in_dir = os.listdir(path_to_dir)
 

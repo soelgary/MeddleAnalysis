@@ -1,5 +1,9 @@
 import os
 
+'''
+This script will count the number of requests made to each IP address. No input is needed.
+'''
+
 path_to_dir = 'ServersContacted'
 files_in_dir = os.listdir(path_to_dir)
 website_count = {}
