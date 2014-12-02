@@ -1,0 +1,48 @@
+Internet Assigned Numbers Authority: 2336
+Akamai Technologies, Inc.: 1797
+Facebook, Inc.: 1665
+Apple Inc.: 1120
+Google Inc.: 785
+Amazon.com, Inc.: 133
+Amazon Technologies Inc.: 77
+RIPE Network Coordination Centre: 73
+Northeastern University: 41
+Peak Web Hosting Inc.: 30
+Twitter Inc.: 25
+SoftLayer Technologies Inc.: 18
+Adobe Systems Inc.: 15
+EdgeCast Networks, Inc.: 12
+CloudFlare, Inc.: 11
+Yahoo! Inc.: 10
+Uber Technologies, Inc: 10
+Fastly: 9
+Yahoo! Broadcast Services, Inc.: 7
+Lotame Solutions, Inc.: 7
+TUMBLR, INC.: 5
+XO Communications: 4
+Nobis Technology Group, LLC: 4
+Limelight Networks, Inc.: 4
+DoubleVerify, Inc.: 4
+CDNetworks Inc.: 4
+CBS Interactive Inc.: 4
+AppNexus, Inc: 4
+A.C. Nielsen Company: 4
+Turn Inc.: 3
+ServerBeach: 2
+PubMatic, Inc.: 2
+PSINet, Inc.: 2
+OPENX TECHNOLOGIES, INC.: 2
+LinkedIn Corporation: 2
+Inktomi Corporation: 2
+Ezri Inc: 2
+CERFnet: 2
+Automattic, Inc: 2
+Asia Pacific Network Information Centre: 2
+NTT America, Inc.: 1
+Level 3 Communications, Inc.: 1
+Latin American and Caribbean IP address Regional Registry: 1
+Internap Network Services Corporation: 1
+GoDaddy.com, LLC: 1
+Gannett Co. Inc.: 1
+ExactTarget, Inc.: 1
+Blackboard Inc.: 1

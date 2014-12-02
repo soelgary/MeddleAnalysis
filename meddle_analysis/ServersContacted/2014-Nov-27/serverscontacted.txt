@@ -1,0 +1,379 @@
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-31-1417048273-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+129.10.116.59	Northeastern University
+17.172.208.30	Apple Inc.
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-32-1417048330-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-35-1417048557-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-39-1417048745-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-42-1417048944-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-55-1417049741-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.167.193.171	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-00-57-1417049861-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-00-1417050001-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-00-1417050042-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-03-1417050203-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-32-1417051954-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.0.160.222	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+23.3.13.65	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-38-1417052306-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-42-1417052521-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-43-1417052595-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-45-1417052712-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-52-1417053126-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-01-59-1417053540-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+107.178.219.100	Google Inc.
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+216.52.203.13	
+74.125.29.141	Google Inc.
+74.217.75.7	
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-02-02-1417053753-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-02-04-1417053851-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-02-30-1417055416-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-02-33-1417055630-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-02-34-1417055686-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+74.125.228.245	Google Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-02-57-1417057056-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-03-00-1417057202-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.4.187.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-03-57-1417060668-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+23.47.27.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-04-08-1417061326-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.151.229.4	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-04-36-1417062966-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.0.160.222	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+23.3.13.65	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-04-38-1417063107-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-04-56-1417064190-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+129.10.116.59	Northeastern University
+17.172.208.30	Apple Inc.
+171.161.202.50	
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.100.27	Facebook, Inc.
+173.252.100.29	Facebook, Inc.
+173.252.101.50	Facebook, Inc.
+173.252.103.16	Facebook, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+66.220.152.19	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-05-33-1417066416-172.31.45.70-10.11.1.7-70.192.1.230.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+107.178.219.100	Google Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.100.27	Facebook, Inc.
+173.252.100.29	Facebook, Inc.
+184.29.137.97	Akamai Technologies, Inc.
+216.52.203.13	
+23.13.171.27	Akamai Technologies, Inc.
+64.233.171.141	Google Inc.
+69.171.235.48	Facebook, Inc.
+74.217.75.7	
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-05-38-1417066726-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.140.25.4	Apple Inc.
+17.154.66.109	Apple Inc.
+17.154.66.154	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.0.160.222	Akamai Technologies, Inc.
+23.13.165.163	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+23.44.114.217	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-05-40-1417066818-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+216.151.177.152	
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-05-53-1417067607-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.100.29	Facebook, Inc.
+173.252.102.16	Facebook, Inc.
+66.220.152.19	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-05-54-1417067689-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+107.178.219.100	Google Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.194.76.141	Google Inc.
+173.252.102.16	Facebook, Inc.
+216.52.203.13	
+23.13.171.27	Akamai Technologies, Inc.
+23.4.187.27	Akamai Technologies, Inc.
+74.217.75.7	
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-08-30-1417077027-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.103.16	Facebook, Inc.
+23.0.160.198	Akamai Technologies, Inc.
+23.0.160.34	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-10-07-1417082844-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+23.62.7.8	Akamai Technologies, Inc.
+69.171.245.49	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-11-07-1417086472-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+23.62.7.24	Akamai Technologies, Inc.
+69.171.248.65	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-14-01-1417096911-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.154.66.154	Apple Inc.
+17.173.66.134	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.0.160.222	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+23.3.13.65	Akamai Technologies, Inc.
+69.171.235.48	Facebook, Inc.
+96.6.18.217	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-14-03-1417097018-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+69.171.235.48	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-14-50-1417099837-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.102.16	Facebook, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-15-33-1417102399-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.80.5	Facebook, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-16-24-1417105467-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.80.5	Facebook, Inc.
+23.0.160.222	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+23.3.13.50	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-16-27-1417105621-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.80.5	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-16-34-1417106062-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.103.16	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-16-38-1417106303-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.103.16	Facebook, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-17-04-1417107852-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+69.171.248.65	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-20-29-1417120176-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.103.16	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-20-31-1417120301-172.31.45.70-10.11.1.7-174.236.96.76.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.103.16	Facebook, Inc.
+23.4.187.27	Akamai Technologies, Inc.
+69.171.245.49	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-20-59-1417121995-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+107.178.219.100	Google Inc.
+17.172.208.30	Apple Inc.
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.103.16	Facebook, Inc.
+216.52.203.13	
+74.125.22.141	Google Inc.
+74.217.75.7	
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-21-17-1417123071-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+107.178.219.100	Google Inc.
+17.154.66.75	Apple Inc.
+17.173.254.25	Apple Inc.
+17.173.66.131	Apple Inc.
+17.173.66.132	Apple Inc.
+17.173.66.73	Apple Inc.
+172.231.247.120	Akamai Technologies, Inc.
+172.231.249.81	Akamai Technologies, Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.194.115.223	Google Inc.
+173.194.121.45	Google Inc.
+173.194.121.57	Google Inc.
+173.194.121.58	Google Inc.
+173.194.68.141	Google Inc.
+173.252.100.29	Facebook, Inc.
+173.252.101.48	Facebook, Inc.
+173.252.101.50	Facebook, Inc.
+184.28.17.176	Akamai Technologies, Inc.
+184.50.229.153	Akamai Technologies, Inc.
+184.50.229.176	Akamai Technologies, Inc.
+184.51.108.57	Akamai Technologies, Inc.
+184.51.108.58	Akamai Technologies, Inc.
+188.165.216.31	RIPE Network Coordination Centre
+208.94.0.61	Ezri Inc
+216.52.203.13	
+23.0.160.199	Akamai Technologies, Inc.
+23.0.160.201	Akamai Technologies, Inc.
+23.0.160.215	Akamai Technologies, Inc.
+23.0.163.112	Akamai Technologies, Inc.
+23.0.163.113	Akamai Technologies, Inc.
+23.0.163.114	Akamai Technologies, Inc.
+23.0.163.64	Akamai Technologies, Inc.
+23.0.163.74	Akamai Technologies, Inc.
+23.0.163.75	Akamai Technologies, Inc.
+23.0.163.82	Akamai Technologies, Inc.
+23.0.163.98	Akamai Technologies, Inc.
+23.0.163.99	Akamai Technologies, Inc.
+23.13.146.217	Akamai Technologies, Inc.
+23.13.171.27	Akamai Technologies, Inc.
+23.15.8.211	Akamai Technologies, Inc.
+23.202.235.120	Akamai Technologies, Inc.
+23.218.96.197	Akamai Technologies, Inc.
+23.52.91.27	Akamai Technologies, Inc.
+23.62.7.11	Akamai Technologies, Inc.
+23.62.7.40	Akamai Technologies, Inc.
+23.64.109.185	Akamai Technologies, Inc.
+23.73.180.49	Akamai Technologies, Inc.
+23.73.180.65	Akamai Technologies, Inc.
+23.73.180.89	Akamai Technologies, Inc.
+23.73.180.97	Akamai Technologies, Inc.
+31.13.66.5	RIPE Network Coordination Centre
+31.13.66.56	RIPE Network Coordination Centre
+31.13.69.68	RIPE Network Coordination Centre
+31.13.71.33	RIPE Network Coordination Centre
+31.13.71.38	RIPE Network Coordination Centre
+38.99.79.103	PSINet, Inc.
+64.233.171.154	Google Inc.
+64.233.171.155	Google Inc.
+64.233.171.157	Google Inc.
+69.171.248.65	Facebook, Inc.
+74.125.29.157	Google Inc.
+74.217.75.7	
+96.6.47.194	Akamai Technologies, Inc.
+96.6.47.224	Akamai Technologies, Inc.
+96.6.47.225	Akamai Technologies, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-21-51-1417125070-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.172.208.30	Apple Inc.
+17.172.208.47	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+69.171.235.48	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-22-31-1417127495-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+107.178.219.100	Google Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.194.68.84	Google Inc.
+216.52.203.13	
+23.13.171.27	Akamai Technologies, Inc.
+23.15.8.218	Akamai Technologies, Inc.
+23.3.13.82	Akamai Technologies, Inc.
+64.233.171.141	Google Inc.
+64.233.171.95	Google Inc.
+69.171.248.65	Facebook, Inc.
+74.125.228.53	Google Inc.
+74.125.228.54	Google Inc.
+74.125.228.74	Google Inc.
+74.125.228.75	Google Inc.
+74.217.75.7	
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-22-45-1417128300-172.31.45.70-10.11.1.7-174.236.70.65.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+69.171.235.48	Facebook, Inc.
+soeller.g/2014-Nov-27/tcpdump-soeller.g-Nov-27-2014-23-27-1417130854-172.31.45.70-10.11.1.7-70.209.135.126.pcap.enc.clr
+10.11.1.7	Internet Assigned Numbers Authority
+17.167.144.32	Apple Inc.
+17.172.208.30	Apple Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+69.171.248.65	Facebook, Inc.

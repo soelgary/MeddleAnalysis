@@ -1,0 +1,44 @@
+soeller.g/2014-Nov-18/tcpdump-soeller.g-Nov-18-2014-22-58-1416351518-172.31.45.70-10.11.1.18-70.192.7.110.pcap.enc.clr
+10.11.1.18	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+173.194.121.21	Google Inc.
+23.52.91.27	Akamai Technologies, Inc.
+69.171.235.48	Facebook, Inc.
+soeller.g/2014-Nov-18/tcpdump-soeller.g-Nov-18-2014-23-00-1416351637-172.31.45.70-10.11.1.18-70.192.7.110.pcap.enc.clr
+10.11.1.18	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+69.171.235.48	Facebook, Inc.
+soeller.g/2014-Nov-18/tcpdump-soeller.g-Nov-18-2014-23-02-1416351740-172.31.45.70-10.11.1.18-70.192.7.110.pcap.enc.clr
+10.11.1.18	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+69.171.248.65	Facebook, Inc.
+74.125.228.246	Google Inc.
+soeller.g/2014-Nov-18/tcpdump-soeller.g-Nov-18-2014-23-35-1416353741-172.31.45.70-10.11.1.18-70.192.7.110.pcap.enc.clr
+10.11.1.18	Internet Assigned Numbers Authority
+107.20.254.238	Amazon.com, Inc.
+17.172.208.47	Apple Inc.
+172.231.249.81	Akamai Technologies, Inc.
+172.31.0.2	Internet Assigned Numbers Authority
+173.252.101.48	Facebook, Inc.
+173.252.101.50	Facebook, Inc.
+174.36.240.83	SoftLayer Technologies Inc.
+184.51.108.51	Akamai Technologies, Inc.
+184.51.108.98	Akamai Technologies, Inc.
+216.52.203.13	
+23.0.163.104	Akamai Technologies, Inc.
+23.0.163.107	Akamai Technologies, Inc.
+23.52.91.27	Akamai Technologies, Inc.
+23.62.7.33	Akamai Technologies, Inc.
+31.13.69.36	RIPE Network Coordination Centre
+31.13.69.68	RIPE Network Coordination Centre
+54.225.133.162	Amazon Technologies Inc.
+69.171.248.65	Facebook, Inc.
+96.16.6.65	Akamai Technologies, Inc.
+soeller.g/2014-Nov-18/tcpdump-soeller.g-Nov-18-2014-23-38-1416353908-172.31.45.70-10.11.1.18-70.192.7.110.pcap.enc.clr
+10.11.1.18	Internet Assigned Numbers Authority
+172.31.0.2	Internet Assigned Numbers Authority
+23.13.171.27	Akamai Technologies, Inc.
+23.23.168.21	Amazon.com, Inc.
+69.171.248.65	Facebook, Inc.
